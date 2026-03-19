@@ -17,7 +17,7 @@
   -->
 
 <resources>
-    <string name="app_name">ThreatMind ML</string>
+    <string name="app_name">ThreatMind AV2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="scan">Scan</string>
