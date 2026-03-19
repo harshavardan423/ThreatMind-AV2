@@ -28,13 +28,3 @@ jobs:
         with:
           name: ThreatMind-ML
           path: app/build/outputs/apk/debug/*.apk
-```
-
-Note I used **JDK 11** not 17 — this repo uses `compileSdk 31` which works better with JDK 11.
-
----
-
-## Icons
-Same as before — upload your ThreatMind PNGs from the zip I gave you earlier to all the mipmap folders:
-```
-https://github.com/harshavardan423/ThreatMind-AV2/tree/master/app/src/main/res/mipmap-xxhdpi
